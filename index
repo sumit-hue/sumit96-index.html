@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/home/sumitmishra/MERN/bootstrap.min.css">
+    <link rel="stylesheet" href="/home/sumitmishra/MERN/font-awesome/css/font-awesome.min.css">
+    <link href="./styles.css" rel="stylesheet" />
+    <title>Document</title>
+</head>
+
+<body>
+    <header class="showcase">
+        <div class="container">
+            <nav>
+                <h1 class="logo">Trycatch Classes</h1>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Services</a></li>
+
+                </ul>
+            </nav>
+
+            <div class="showcase-content">
+                <div>
+                    <h1>Where anyone can be a developer</h1>
+                    <p class="my-1">
+                        Get hands-on practical training in Web Development courses in Mumbai. We are highly qualified professors with industry Experience more than 9+ years..
+                    </p>
+                    <p class="my-2">
+                        Learn HTML5, CSS3, JAVASCRIPT,JQUERY,PHP , Ajax, jSON etc and work on live projects...
+                    </p>
+
+                    <a href="#" class="btn-primary">Learn More</a>
+                    <a href="#" class="btn-secondary">Sign Up</a>
+                </div>
+
+                <img src="https://themesbrand.com/zooki/layouts/images/home-2-img.png" />
+
+            </div>
+        </div>
+    </header>
+
+
+
+
+    <div class="showcase">
+        <div class="container">
+            <div class="row mockup-container">
+                <img class="mx-auto d-block img-fluid" src="/home/sumitmishra/Desktop/10or/logo1.png" alt="">
+            </div>
+            <div class="row d-flex justify-content-center">
+                <div class="menu-content pt-100 pb-60 col-lg-10">
+                    <div class="title text-center">
+                        <h1 class="mb-10">Our Most Unique Webclass</h1>
+                        <p>Learn From the Best.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="single-feature">
+                        <span class="fa fa-desktop"></span>
+                        <h4>
+                            Stunning Visuals
+                        </h4>
+                        <p>
+                            All our courses are taught by the best technology leaders and are relevant to industry needs. Upon completing a course, you’ll receive a verified completion certificate recognized by TRYCATCH
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="single-feature">
+                        <span class="fa fa-code"></span>
+                        <h4>
+                            Clean Code
+                        </h4>
+                        <p>
+
+
+                            All our courses are taught by the best technology leaders and are relevant to industry needs. Upon completing a course, you’ll receive a verified completion certificate recognized by TRYCATCH .
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="single-feature">
+                        <span class="fa fa-clock-o"></span>
+                        <h4>
+                            Punctuality
+                        </h4>
+                        <p>
+
+
+                            All our courses are taught by the best technology leaders and are relevant to industry needs. Upon completing a course, you’ll receive a verified completion certificate recognized by TRYCATCH
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <div class="showcase">
+        <div class="container">
+            <div class="row d-flex justify-content-center">
+                <div class="menu-content pb-60 col-lg-10">
+                    <div class="title text-center">
+                        <h1 class="mb-10">Powerful User interface Design</h1>
+                        <p>We are the best UI-UX Training institute in Mumbai.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row align-items-center">
+                <div class="col-lg-6 about-left">
+                    <h6>Brand new app to blow your mind</h6>
+                    <h1>
+                        We’ve made a life <br> that will change you
+                    </h1>
+                    <p>
+                        <span>
+									We are here to listen from you deliver exellence
+								</span>
+                    </p>
+                    <p>
+                        This Ui-Ux training course is for people who want to build an end to end strong understanding of UX/UI. By the end of this course, the aspirant will have several Live Projects in their portfolio and working capability of handling any project from scratch.
+                    </p>
+                    <a href="#" class="btn-primary">GET STARTED NOW</a>
+
+                </div>
+                <div class="col-lg-6 about-right">
+                    <div class="active-about-carusel">
+                        <div class="single-carusel item">
+                            <img class="img-fluid" src="/home/sumitmishra/Desktop/10or/m32.png" alt="">
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="showcase">
+        <div class="container">
+            <div class="row d-flex justify-content-center">
+                <div class="menu-content pb-60 col-lg-10">
+                    <div class="title text-center">
+                        <h1 class="mb-10">Features That make us Unique</h1>
+                        <p>We are the best UI-UX Training institute in Mumbai..</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6 secvice-left">
+                    <div class="single-service d-flex flex-row pb-30">
+                        <div class="icon">
+                            <h1>01</h1>
+                        </div>
+                        <div class="desc">
+                            <h4>User Research</h4>
+                            <p>
+
+
+                                All our courses are taught by the best technology leaders and are relevant to industry needs. Upon completing a course, you’ll receive a verified completion certificate recognized by TryCatch Classes. You can also buy a domain name and most of all work
+                                on live projects.
+
+                            </p>
+                        </div>
+                    </div>
+                    <div class="single-service d-flex flex-row pb-30">
+                        <div class="icon">
+                            <h1>03</h1>
+                        </div>
+                        <div class="desc">
+                            <h4>Sketch & Wireframes</h4>
+                            <p>
+
+
+                                All our courses are taught by the best technology leaders and are relevant to industry needs. Upon completing a course, you’ll receive a verified completion certificate recognized by TryCatch Classes. You can also buy a domain name and most of all work
+                                on live projects.
+
+                            </p>
+                        </div>
+                    </div>
+                    <div class="single-service d-flex flex-row pb-30">
+                        <div class="icon">
+                            <h1>05</h1>
+                        </div>
+                        <div class="desc">
+                            <h4>User Research</h4>
+                            <p>
+
+
+                                All our courses are taught by the best technology leaders and are relevant to industry needs. Upon completing a course, you’ll receive a verified completion certificate recognized by TryCatch Classes. You can also buy a domain name and most of all work
+                                on live projects.
+
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 secvice-right">
+                    <div class="single-service d-flex flex-row pb-30">
+                        <div class="icon">
+                            <h1>02</h1>
+                        </div>
+                        <div class="desc">
+                            <h4>User Interface</h4>
+                            <p>
+
+
+                                All our courses are taught by the best technology leaders and are relevant to industry needs. Upon completing a course, you’ll receive a verified completion certificate recognized by TryCatch Classes. You can also buy a domain name and most of all work
+                                on live projects.
+
+                            </p>
+                        </div>
+                    </div>
+                    <div class="single-service d-flex flex-row pb-30">
+                        <div class="icon">
+                            <h1>04</h1>
+                        </div>
+                        <div class="desc">
+                            <h4>User Experience</h4>
+                            <p>
+
+
+                                All our courses are taught by the best technology leaders and are relevant to industry needs. Upon completing a course, you’ll receive a verified completion certificate recognized by TryCatch Classes. You can also buy a domain name and most of all work
+                                on live projects.
+
+                            </p>
+                        </div>
+                    </div>
+                    <div class="single-service d-flex flex-row pb-30">
+                        <div class="icon">
+                            <h1>06</h1>
+                        </div>
+                        <div class="desc">
+                            <h4>User Interface</h4>
+                            <p>
+
+
+                                All our courses are taught by the best technology leaders and are relevant to industry needs. Upon completing a course, you’ll receive a verified completion certificate recognized by TryCatch Classes. You can also buy a domain name and most of all work
+                                on live projects.
+
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <footer class="footer">
+        <div class="footer_top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-4 col-md-6 col-lg-4">
+                        <div class="footer_widget text-center ">
+                            <h3 class="footer_title pos_margin">
+                                Mumbai
+                            </h3>
+                            <p>2rd floor, 201/A Ramdev park, <br> Mira road Thane MH-401107 <br>
+                                <a href="#">sumit.mishra14392@gmail.com.com</a></p>
+                            <a class="number" href="#">+91 748 583 6399</a>
+
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-md-6 col-lg-4">
+                        <div class="footer_widget text-center ">
+                            <h3 class="footer_title pos_margin">
+                                Pune
+                            </h3>
+                            <p>4th floor, 404/A Kanikia road, <br> mira road Thane MH-401107 <br>
+                                <a href="#">Sumit.mishra14392@gmail.com</a></p>
+                            <a class="number" href="#">+91 748 583 6399</a>
+
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-md-12 col-lg-4">
+                        <div class="footer_widget">
+                            <h3 class="footer_title">
+                                Stay Connected
+                            </h3>
+                            <form action="#" class="newsletter_form">
+                                <input type="text" placeholder="Enter your mail">
+                                <button type="submit">Sign Up</button>
+                            </form>
+                            <p class="newsletter_text">Stay connect with us to get exclusive offer!</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-lg-4">
+                        <div class="socail_links text-center">
+                            <ul>
+                                <li>
+                                    <a href="#">
+                                        <span class="fa fa-instagram"></span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <span class="fa fa-twitter"></span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <span class="fa fa-facebook"></span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <span class="fa fa-google-plus"></span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="copy-right_text">
+            <div class="container">
+                <div class="footer_border"></div>
+                <div class="row">
+                    <div class="col-xl-12">
+                        <p class="copy_right text-center">
+
+                            Copyright &copy;
+                            <script>
+                                document.write(new Date().getFullYear());
+                            </script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Sumtech</a>
+
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+
+
+
+
+
+
+</body>
+
+</html>
